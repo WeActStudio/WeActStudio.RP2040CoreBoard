@@ -12,4 +12,5 @@ RaspberryPi Pico是一款低成本，高性能的微控制器开发板，具有�
 ![输入图片说明](HDK/%E5%BC%95%E8%84%9A%E5%9B%BE.PNG)
 
 尺寸图：
+
 ![输入图片说明](HDK/rp2040-V10%20Board%20shape%20.png)
