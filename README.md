@@ -1,4 +1,4 @@
-# RP2040
+# RP2040 / WeAct Studio 微行工作室 出品
 
 #### WeAct-RP2040-V1.0 介绍
 RP2040支持Micropython、C、Arduino开发;
